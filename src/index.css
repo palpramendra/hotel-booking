@@ -1,0 +1,116 @@
+.navbar
+{
+    color:black;
+    list-style: none;
+    font-size: 20px; 
+}
+.container-fluid
+{
+    background-color: #0a0707b4;
+}
+
+.logo
+{
+    width: 125px;
+}
+.banner1
+{
+    padding-bottom: 40px;
+}
+h5
+{
+    padding-bottom: 15px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.page
+{
+    color: rgba(37, 43, 43, 0.637);
+    font-size: 20px;
+    
+}
+.read_more
+{
+    background-color: #110e0e;
+    color: #fff;
+    font-weight: bold;
+    padding: 7px 10px;
+    
+}
+
+.read_more:hover
+{
+    background-color: #fa0c0c;
+}
+.title
+{
+    font-size: 20px;
+    padding-top: 10px;
+    background-color: #fff;
+    text-align: center;
+}
+.our-room
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.room
+{
+    background-color: #dbdde0;
+}
+.description
+{
+    background-color: #fff;
+    text-align: center;
+}
+.bg1
+{
+    background-color: #fff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+h2{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.gallery
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.blog
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 50px;
+    color: #fff;
+}
+.block-bg
+{
+    background-image: url(https://themewagon.github.io/keto/images/blog_bg.jpg);
+    height: 600px;
+}
+.content
+{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+}
+.bg2
+{
+    background-color: #fff;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+h2{
+    color: #fa0c0c;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+    color: red;
+}
