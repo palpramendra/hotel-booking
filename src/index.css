@@ -8,7 +8,17 @@
 {
     background-color: #0a0707b4;
 }
-
+.btn
+{
+    background-color: #0e0c0c;
+    color: #fff;
+    padding: 10px 10px;
+}
+.btn:hover
+{
+background-color: #eb0909;
+color: #fff;
+}
 .logo
 {
     width: 125px;
@@ -113,4 +123,13 @@ h2{
 }
 .navbar-expand-lg .navbar-nav .nav-link:hover{
     color: red;
+}
+element.style img 
+{
+    height: 210px;
+}
+.about
+{
+    color: #443c3cc7;
+    font-size: 20px;
 }
